@@ -1,18 +1,25 @@
 title: Adrian Isinta
 logo: /assets/img/profile.jpg
 description: Cybersecurity | Penetration Testing | Cloud Security Enthusiast
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
 
-navigation:
-  - title: Home
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+# Build settings
+plugins:
+  - jekyll-include-cache
+
+# Navigation
+nav:
+  - title: "Home"
     url: /
-  - title: Resume
-    url: /resume
-  - title: Projects
-    url: /projects
-  - title: Lab Challenges
-    url: /labs
-  - title: Contact
-    url: /contact
+  - title: "Resume"
+    url: /resume/
+  - title: "Projects"
+    url: /projects/
+  - title: "Lab Challenges"
+    url: /labs/
+  - title: "Contact"
+    url: /contact/
+
+# Optional: Google Analytics (leave blank if not using)
+google_analytics: ""
