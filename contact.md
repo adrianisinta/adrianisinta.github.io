@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Contact
+title: "Contact"
+layout: single
+permalink: /contact/
 ---
 
 # Contact
