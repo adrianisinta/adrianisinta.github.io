@@ -4,8 +4,6 @@ layout: single
 permalink: /contact/
 ---
 
-# Contact
-
 You can reach me via the following channels:
 
 - **GitHub:** [https://github.com/adrianisinta](https://github.com/adrianisinta)
