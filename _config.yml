@@ -8,22 +8,5 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-include-cache
 
-# Enable header navigation
-header:
-  nav: true
-
-# Navigation
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Resume"
-    url: /resume/
-  - title: "Projects"
-    url: /projects/
-  - title: "Lab Challenges"
-    url: /labs/
-  - title: "Contact"
-    url: /contact/
-
 # Optional: Google Analytics (leave blank if not using)
 google_analytics: ""
