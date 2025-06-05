@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Projects
+layout: single
+permalink: /projects/
 ---
 
 # Projects
