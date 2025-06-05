@@ -4,7 +4,6 @@ layout: single
 permalink: /resume/
 ---
 
-# Resume
 
 ## Professional Summary
 
