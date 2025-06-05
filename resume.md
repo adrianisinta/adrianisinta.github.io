@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Resume
+layout: single
+permalink: /resume/
 ---
 
 # Resume
