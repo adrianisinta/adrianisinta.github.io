@@ -4,3 +4,15 @@ description: Cybersecurity | Penetration Testing | Cloud Security Enthusiast
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+navigation:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /resume
+  - title: Projects
+    url: /projects
+  - title: Lab Challenges
+    url: /labs
+  - title: Contact
+    url: /contact
