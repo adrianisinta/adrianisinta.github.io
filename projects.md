@@ -4,7 +4,6 @@ layout: single
 permalink: /projects/
 ---
 
-# Projects
 
 ## Blockchain-based Health Record System
 
