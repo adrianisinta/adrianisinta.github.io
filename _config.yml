@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache
 
 # Navigation
-nav:
+main:
   - title: "Home"
     url: /
   - title: "Resume"
