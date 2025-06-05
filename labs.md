@@ -4,7 +4,6 @@ layout: single
 permalink: /labs/
 ---
 
-# Lab Challenges
 
 ## Hack The Box - CPTS Exam Machines
 
