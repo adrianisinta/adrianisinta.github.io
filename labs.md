@@ -1,5 +1,5 @@
 ---
-title: Lab Challenges
+title: "Lab Challenges"
 layout: single
 permalink: /labs/
 ---
