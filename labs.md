@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Lab Challenges
+layout: single
+permalink: /labs/
 ---
 
 # Lab Challenges
