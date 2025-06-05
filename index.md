@@ -1,123 +1,30 @@
 ---
 layout: default
+title: Home
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Adrian Isinta
 
-[Link to another page](./another-page.html).
+**Cybersecurity | Cloud Security | DevOps | Penetration Testing**
 
-There should be whitespace between paragraphs.
+Welcome to my professional portfolio!  
+I am a self-driven Computer Science graduate with strong foundations in cybersecurity, cloud computing, DevOps, and networking. I focus on cloud security, vulnerability assessment, and secure infrastructure automation in modern environments.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Currently pursuing AZ-104 and AWS SAA certifications while actively developing hands-on skills through Hack The Box, Microsoft Cloud Labs, and personal projects.
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## About Me
 
-## Header 2
+I hold a BSc in Computer Science from the University of Nairobi (Second Class Upper).  
+I have earned multiple industry-recognized certifications and have internship experience in IT support and cybersecurity.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+My passion lies in **offensive and defensive security**, cloud platforms, and infrastructure automation. I actively contribute to the security community through CTFs, lab-based learning, and technical writeups.
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Contact
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[GitHub](https://github.com/adrianisinta)  
+[LinkedIn](https://linkedin.com/in/adrianisinta)  
+[Email](mailto:adrianmomanyi15@gmail.com)
